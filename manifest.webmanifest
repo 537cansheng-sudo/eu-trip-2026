@@ -1,0 +1,13 @@
+{
+  "name": "2026 国庆欧游 · 我的行程看板",
+  "short_name": "我的欧游看板",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#f3fdf9",
+  "theme_color": "#0f2c36",
+  "icons": [
+    { "src": "./apple-touch-icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any" }
+  ]
+}
